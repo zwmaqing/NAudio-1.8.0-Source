@@ -1,0 +1,38 @@
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.MessageMatch 生成存根: 类型是一个值类型。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.MaxTimeAttribute 生成存根: 类型已密封。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ActualValueDelegate 生成存根: 类型已密封。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.FloatingPointNumerics 生成存根: 类型没有系列可见的构造函数。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.Numerics 生成存根: 类型没有系列可见的构造函数。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ToleranceMode 生成存根: 类型是一个值类型。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.TestDelegate 生成存根: 类型已密封。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.DirectoryAssert 生成存根: 类型已过时。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.SpecialValue 生成存根: 类型是一个值类型。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.TestState 生成存根: 类型是一个值类型。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.TestStatus 生成存根: 类型是一个值类型。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Text 生成存根: 类型已过时。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.MessageMatch 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.RandomAttribute+SampleType 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.ITestCaseData 生成填充码: 类型是一个接口。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.IResolveConstraint 生成填充码: 类型是一个接口。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.Constraint+UnsetObject 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.AndConstraint+FailurePoint 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ComparisonAdapter+ComparerAdapter 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ComparisonAdapter+ComparerAdapter`1 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ComparisonAdapter+ComparisonAdapterForComparison`1 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ComparisonAdapter+DefaultComparisonAdapter 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ActualValueDelegate 生成填充码: 类型是一个委托。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.EqualityAdapter+ComparisonAdapterAdapter 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.EqualityAdapter+EqualityComparerAdapter 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.EqualityAdapter+EqualityComparerAdapter`1 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.FloatingPointNumerics+DoubleLongUnion 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.FloatingPointNumerics+FloatIntUnion 生成填充码: 类型对 exported or assembly(nunit.framework.2.5.10.11092.Fakes) 不可见。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ThrowsConstraint+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在内部限制。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ThrowsNothingConstraint+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在内部限制。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Constraints.ToleranceMode 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.TestDelegate 生成填充码: 类型是一个委托。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.DirectoryAssert 生成填充码: 类型已过时。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.IExpectException 生成填充码: 类型是一个接口。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.SpecialValue 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.TestState 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.TestStatus 生成填充码: 类型是一个枚举。
+J:\软件开发技术\控件组件资源\NAudio\NAudio-1.8.0-Source\NAudioTests\Fakes\nunit.framework.fakes : warning : 无法为 NUnit.Framework.Text 生成填充码: 类型已过时。
